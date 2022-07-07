@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Muhammad-Shayan-Haider
 - 👀 I’m interested in Computer Science and Software Engineering
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently working as an iOS developer
 - 💞️ I’m looking to collaborate on Open source projects
