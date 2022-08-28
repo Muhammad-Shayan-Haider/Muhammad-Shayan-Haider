@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/muhammad-shayan-haider-96467b20a/)](https://www.linkedin.com/in/muhammad-shayan-haider-96467b20a/)
 
 :school: Studed BSCS at FAST NUCES, Lahore. </br>
-:computer: I love coding</br>
+:computer: I love coding 👨‍💻.</br>
 :mailbox: How to reach me: <a href="mailto:shayanhaider1999@gmail.com">shayanhaider1999@gmail.com</a>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Shayan-Haider&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Shayan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Shayan-Haider&theme=github_dark&layout=compact&hide_border=true" /></a> |
