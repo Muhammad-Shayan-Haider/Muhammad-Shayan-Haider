@@ -21,7 +21,7 @@
 
 ## Languages and Tools:
 <div>
-  <img width=50px src="https://camo.githubusercontent.com/ca12405560eda1428010c0094efcf0ef2e9f2339e6f6c6e08b9dc0a12c97ca25/68747470733a2f2f73776966742e6f72672f6173736574732f696d616765732f73776966742e737667">&nbsp;
+  <img width=50px src="https://cdn.iconscout.com/icon/free/png-256/swift-13-722653.png">&nbsp;
   <img width=50px src="https://cdn3d.iconscout.com/3d/free/thumb/3d-mac-os-finder-logo-2978366-2476743.png">&nbsp;
   <img width=50px src="https://live.staticflickr.com/4151/5189024771_a1f9d08717.jpg">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/a/ac/IOS-Emblem.jpg">&nbsp;
