@@ -15,15 +15,9 @@
 ## Top repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Shayan-Haider&repo=TDD-in-iOS)](https://github.com/Muhammad-Shayan-Haider/TDD-in-iOS)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Shayan-Haider&repo=TDD-in-iOS
-&theme=github_dark)](https://github.com/Muhammad-Shayan-Haider/TDD-in-iOS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Shayan-Haider&repo=object-height-calculation)](https://github.com/Muhammad-Shayan-Haider/object-height-calculation)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Shayan-Haider&repo=object-height-calculation
-&theme=github_dark)](https://github.com/Muhammad-Shayan-Haider/object-height-calculation)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Shayan-Haider&repo=Calculator-StackViews-iOS13
-&theme=github_dark)](https://github.com/Muhammad-Shayan-Haider/Calculator-StackViews-iOS13)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Shayan-Haider&repo=Calculator-StackViews-iOS13)](https://github.com/Muhammad-Shayan-Haider/Calculator-StackViews-iOS13)
 
 ## Languages and Tools:
 <div>
