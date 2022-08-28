@@ -24,7 +24,7 @@
   <img width=50px src="https://cdn.iconscout.com/icon/free/png-256/swift-13-722653.png">&nbsp;
   <img width=50px src="https://cdn3d.iconscout.com/3d/free/thumb/3d-mac-os-finder-logo-2978366-2476743.png">&nbsp;
   <img width=50px src="https://live.staticflickr.com/4151/5189024771_a1f9d08717.jpg">&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/a/ac/IOS-Emblem.jpg">&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Apple-logo.png">&nbsp;
   <img width=50px src="https://cdn3d.iconscout.com/3d/free/thumb/app-store-in-ios-2978358-2476735.png">&nbsp;
 </div>
 
