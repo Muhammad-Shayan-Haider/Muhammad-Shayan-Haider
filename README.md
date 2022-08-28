@@ -13,6 +13,8 @@
 | ------------- | ------------- |
 
 ## Top repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Shayan-Haider&repo=TDD-in-iOS)](https://github.com/Muhammad-Shayan-Haider/TDD-in-iOS)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Shayan-Haider&repo=TDD-in-iOS
 &theme=github_dark)](https://github.com/Muhammad-Shayan-Haider/TDD-in-iOS)
 
