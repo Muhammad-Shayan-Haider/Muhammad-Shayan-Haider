@@ -5,7 +5,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/muhammad-shayan-haider-96467b20a/)](https://www.linkedin.com/in/muhammad-shayan-haider-96467b20a/)
 
-:school: Studed BSCS at FAST NUCES, Lahore. </br>
+:school: Studied BSCS at FAST NUCES, Lahore. </br>
 :computer: I love coding 👨‍💻.</br>
 :mailbox: How to reach me: <a href="mailto:shayanhaider1999@gmail.com">shayanhaider1999@gmail.com</a>
 
